@@ -7,7 +7,7 @@ class Layout extends Component {
     return (
       <div>
         <Head>
-          <title>OpenDataCam</title>
+          <title>Bilbord</title>
           <meta charSet='utf-8' />
           <meta
             name='viewport'
