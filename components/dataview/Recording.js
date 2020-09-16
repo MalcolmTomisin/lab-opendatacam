@@ -7,6 +7,7 @@ import { deleteRecording } from '../../statemanagement/app/HistoryStateManagemen
 import { getCounterColor, getDisplayClasses } from '../../utils/colors.js';
 import { COUNTING_AREA_TYPE } from '../../utils/constants.js';
 import RecordingDeleteConfirmationModal from '../shared/RecordingDeleteConfirmationModal.js';
+import Stats from './stats';
 
 class Recording extends PureComponent {
 
